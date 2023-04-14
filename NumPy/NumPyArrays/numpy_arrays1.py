@@ -40,7 +40,7 @@ print()
 
 
 # --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Creating an array that includes of all zeros uing `zeros` (or 'ones' for all ones) function
+# Creating an array that includes of all zeros using `zeros` (or 'ones' for all ones) function
 np_zeroes_array = np.zeros(10)
 print(np_zeroes_array)
 
